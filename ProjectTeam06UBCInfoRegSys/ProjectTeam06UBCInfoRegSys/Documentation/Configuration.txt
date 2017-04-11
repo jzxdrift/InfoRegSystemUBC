@@ -1,0 +1,14 @@
+﻿namespace ProjectTeam06UBCInfoRegSys.Migrations
+{
+    using System.Data.Entity.Migrations;
+
+    internal sealed class Configuration : DbMigrationsConfiguration<UBCInfoRegEntities>
+    {
+        public Configuration()
+        {
+            AutomaticMigrationsEnabled = true;
+        }
+
+        protected override void Seed(UBCInfoRegEntities context) { }
+    }
+}
