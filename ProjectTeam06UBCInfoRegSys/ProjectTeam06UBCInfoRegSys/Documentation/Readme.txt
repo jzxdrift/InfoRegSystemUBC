@@ -26,7 +26,7 @@ Student user tips:
 
 Instructor user tips:
 1. Departments, courses, instructors, and registrations options work the same way as in student user mode,
-   EXCEPT instructor user is can not to register for courses.
+   EXCEPT instructor user can not register for courses.
 2. Students can be filtered by department name, combination of first and last names, or both.
 3. If no department name is selected and no first and last names are entered,
    all students will be shown after apply is clicked.
