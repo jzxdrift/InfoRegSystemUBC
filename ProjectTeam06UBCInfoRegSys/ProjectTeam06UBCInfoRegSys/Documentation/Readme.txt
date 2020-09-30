@@ -1,4 +1,5 @@
-This application is an information and registration system for UBC students and staff. The application is a final group project prepared for CSIS 3540 course at Douglas College.
+This application is an information and registration system for UBC students and staff.
+This application is a final group project prepared for CSIS 3540 course at Douglas College.
 
 Getting started tips:
 1. Make sure Entity Framework package for this solution is installed on your PC.
