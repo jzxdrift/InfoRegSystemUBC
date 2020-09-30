@@ -1,4 +1,6 @@
-﻿Getting started tips:
+This application is an information and registration system for UBC students and staff. The application is a final group project prepared for CSIS 3540 course at Douglas College.
+
+Getting started tips:
 1. Make sure Entity Framework package for this solution is installed on your PC.
 2. Delete Migrations folder.
 3. After enable-migrations command in Package Manager Console, the Configuration.cs file will open.
@@ -48,6 +50,3 @@ Admin user tips:
    pop up in case of success, otherwise error message will be displayed.
 7. In order to delete section, select the entire row and click delete. A confirmation message will pop up in case of
    success, otherwise error message will be displayed.
-
-P.S. If you have any problems or further questions, feel free to contact Albert Muller directly either at his
-	 college (mullera@student.douglascollege.ca) or personal email (giga.asd@gmail.com).
